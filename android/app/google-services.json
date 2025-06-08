@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896621147541",
+    "project_id": "doancuoiki-fbffe",
+    "storage_bucket": "doancuoiki-fbffe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896621147541:android:c6f2a5506d541a1d15729c",
+        "android_client_info": {
+          "package_name": "com.example.doancuoiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaJ5RGrH2AcfiY7swl7q25Map7Ab83bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
